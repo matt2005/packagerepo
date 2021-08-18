@@ -1,0 +1,15 @@
+Package: aasdk
+Architecture: armhf
+Depends: libusb-1.0-0,libboost-all-dev,libssl-dev,libprotobuf-dev
+Priority: optional
+Section: devel
+Filename: pool/main/a/aasdk/aasdk_2.1.0_armhf.deb
+Size: 17408454
+SHA256: ea5a07e6b1488e5346d321bcbbb4e5097cf6d3f8aa8104922e5066264e8c6187
+SHA1: 80d927076c2b50245997655b1b7c31ea2c9d4778
+MD5sum: c4ecb5a607bdad33ecb21aa7cc54a255
+Description: aasdk built using CMake
+Maintainer: AASDK
+Version: 2.1.0
+Installed-Size: 136148
+
