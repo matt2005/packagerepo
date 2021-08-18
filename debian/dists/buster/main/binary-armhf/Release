@@ -1,0 +1,5 @@
+Component: main
+Origin: matt2005.github.io/packagerepo/debian
+Label: mat2005.github.io/packagerepo/debian
+Architecture: armhf
+Description: Personal repository
