@@ -1,7 +1,0 @@
-Origin: matt2005.github.io/packagerepo/debian
-Label: mat2005.github.io/packagerepo/debian
-Codename: buster
-Architectures: armhf
-Components: main
-Description: Personal repository
-SignWith: 7404679BD8F6C5BB6EC7B2D72B0AE7AEE5DCB997
