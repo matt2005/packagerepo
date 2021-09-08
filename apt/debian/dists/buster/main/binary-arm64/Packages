@@ -30,18 +30,18 @@ Installed-Size: 197129
 
 Package: opendsh
 Architecture: arm64
-Depends: libboost-atomic1.67.0, libboost-chrono1.67.0, libboost-date-time1.67.0, libboost-filesystem1.67.0, libboost-log1.67.0, libboost-regex1.67.0 (>= 1.67.0-10), libboost-system1.67.0, libboost-test1.67.0, libboost-thread1.67.0, libc6 (>= 2.17), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.12.0), libgstreamer-plugins-base1.0-0 (>= 1.6.0), libgstreamer1.0-0 (>= 1.0.0), libkf5bluezqt6 (>= 5.13.0), libprotobuf17, libqt5bluetooth5 (>= 5.6.0), libqt5core5a (>= 5.10.0), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.2.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5serialbus5 (>= 5.10.1), libqt5serialport5 (>= 5.6.0), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.0.2), librtaudio6, libstdc++6 (>= 6), libtag1v5 (>= 1.9.1-2.2~), libusb-1.0-0 (>= 2:1.0.9)
+Depends: libboost-atomic1.67.0, libboost-chrono1.67.0, libboost-date-time1.67.0, libboost-filesystem1.67.0, libboost-log1.67.0, libboost-regex1.67.0 (>= 1.67.0-10), libboost-system1.67.0, libboost-test1.67.0, libboost-thread1.67.0, libc6 (>= 2.17), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.12.0), libgstreamer-plugins-base1.0-0 (>= 1.6.0), libgstreamer1.0-0 (>= 1.0.0), libkf5bluezqt6 (>= 5.13.0), libprotobuf17, libqt5bluetooth5 (>= 5.6.0), libqt5core5a (>= 5.10.0), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.2.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5serialbus5 (>= 5.10.1), libqt5serialport5 (>= 5.6.0), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.2.0), librtaudio6, libstdc++6 (>= 6), libtag1v5 (>= 1.9.1-2.2~), libusb-1.0-0 (>= 2:1.0.9)
 Priority: optional
 Section: devel
 Filename: pool/main/o/opendsh/opendsh_0.1.b985a43_arm64.deb
-Size: 11841192
-SHA256: 25267222098a6d59d0e5cafc128be5d4c8655bd19b7f75603a8cfbbabaa03f73
-SHA1: 5deb8c7ffb1d166695c5126992c7a401aa455b1e
-MD5sum: 05070edc9758b407d07f4a71a4c677ac
+Size: 14424844
+SHA256: 78eda1dbac22e798170771cca353172c99c2df7fef631b38614b292b58da3864
+SHA1: d5079c14bed9d7746a43721bc4886d5da48caf57
+MD5sum: a01c97f5fae8fdb0dc3e68beb356ec87
 Description: dash built using CMake
 Maintainer: OpenDsh
 Version: 0.1.b985a43
-Installed-Size: 30310
+Installed-Size: 37191
 
 Package: qtgstreamer
 Architecture: arm64
