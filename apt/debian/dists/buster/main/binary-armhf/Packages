@@ -34,10 +34,10 @@ Depends: libboost-atomic1.67.0, libboost-chrono1.67.0, libboost-date-time1.67.0,
 Priority: optional
 Section: devel
 Filename: pool/main/o/opendsh/opendsh_0.1.8155daa_armhf.deb
-Size: 14315528
-SHA256: aed63f1b24ad1b0dc1e38777725514943670047de3494b02930457473e490448
-SHA1: 7064553df922506b9cd2f77433dc082f32b3ba5a
-MD5sum: 0bd3371e96c7bfa4b557da2645d0bce8
+Size: 14315542
+SHA256: ba1effcb5c5b8e45fee05a945322c84377ccab3899aff780db217e9d012c738c
+SHA1: 08875956236283f1494d9b1af0b6e2e4ac90437e
+MD5sum: 9ea19d1423ab2f4c4b6fd3ef6a976942
 Description: dash built using CMake
 Maintainer: OpenDsh
 Version: 0.1.8155daa
