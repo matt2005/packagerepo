@@ -34,14 +34,14 @@ Depends: libboost-atomic1.67.0, libboost-chrono1.67.0, libboost-date-time1.67.0,
 Priority: optional
 Section: devel
 Filename: pool/main/o/opendsh/opendsh_0.1.8155daa_armhf.deb
-Size: 14315542
-SHA256: ba1effcb5c5b8e45fee05a945322c84377ccab3899aff780db217e9d012c738c
-SHA1: 08875956236283f1494d9b1af0b6e2e4ac90437e
-MD5sum: 9ea19d1423ab2f4c4b6fd3ef6a976942
+Size: 14315572
+SHA256: bfd0adb5632468c00d71f21e6e9a186827b6d006d144449278bf6b25bf143f77
+SHA1: d22e8a51e2d1427c6519db51dce27aa8600bbe8a
+MD5sum: 7964098a3fedb1b19210149308e4fef8
 Description: dash built using CMake
 Maintainer: OpenDsh
 Version: 0.1.8155daa
-Installed-Size: 34028
+Installed-Size: 34024
 
 Package: qtgstreamer
 Architecture: armhf
