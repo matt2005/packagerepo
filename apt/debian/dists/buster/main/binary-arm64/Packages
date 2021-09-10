@@ -13,21 +13,6 @@ Maintainer: AASDK
 Version: 2.1.2d48d7c
 Installed-Size: 157671
 
-Package: openauto
-Architecture: arm64
-Depends: libboost-atomic1.67.0, libboost-chrono1.67.0, libboost-date-time1.67.0, libboost-filesystem1.67.0, libboost-log1.67.0, libboost-regex1.67.0 (>= 1.67.0-10), libboost-system1.67.0, libboost-test1.67.0, libboost-thread1.67.0, libc6 (>= 2.17), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.12.0), libgstreamer-plugins-base1.0-0 (>= 1.6.0), libgstreamer1.0-0 (>= 1.0.0), libprotobuf17, libqt5bluetooth5 (>= 5.6.0), libqt5core5a (>= 5.9.0~beta), libqt5gui5 (>= 5.0.2), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5widgets5 (>= 5.0.2), librtaudio6, libstdc++6 (>= 6), libusb-1.0-0 (>= 2:1.0.9)
-Priority: optional
-Section: devel
-Filename: pool/main/o/openauto/openauto_2.1.4a74532_arm64.deb
-Size: 22608096
-SHA256: ed2dad14ba34a7ed610840aec11cf1ff9c9e75f8d5e3866e3e485e44a54eafe8
-SHA1: 2e193d485497326145b6b4e0a192bd8485c9d30c
-MD5sum: d26bc822865a72bb83e424b3a140f0d2
-Description: openauto built using CMake
-Maintainer: OpenDsh
-Version: 2.1.4a74532
-Installed-Size: 197129
-
 Package: opendsh
 Architecture: arm64
 Depends: libboost-atomic1.67.0, libboost-chrono1.67.0, libboost-date-time1.67.0, libboost-filesystem1.67.0, libboost-log1.67.0, libboost-regex1.67.0 (>= 1.67.0-10), libboost-system1.67.0, libboost-test1.67.0, libboost-thread1.67.0, libc6 (>= 2.17), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.12.0), libgstreamer-plugins-base1.0-0 (>= 1.6.0), libgstreamer1.0-0 (>= 1.0.0), libkf5bluezqt6 (>= 5.13.0), libprotobuf17, libqt5bluetooth5 (>= 5.6.0), libqt5core5a (>= 5.10.0), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.2.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5serialbus5 (>= 5.10.1), libqt5serialport5 (>= 5.6.0), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.2.0), librtaudio6, libstdc++6 (>= 6), libtag1v5 (>= 1.9.1-2.2~), libusb-1.0-0 (>= 2:1.0.9)

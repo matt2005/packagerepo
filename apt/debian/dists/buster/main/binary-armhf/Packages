@@ -13,20 +13,20 @@ Maintainer: AASDK
 Version: 2.1.2d48d7c
 Installed-Size: 136156
 
-Package: openauto
+Package: openautoopendsh
 Architecture: armhf
 Depends: libboost-atomic1.67.0, libboost-chrono1.67.0, libboost-date-time1.67.0, libboost-filesystem1.67.0, libboost-log1.67.0, libboost-regex1.67.0 (>= 1.67.0-10), libboost-system1.67.0, libboost-test1.67.0, libboost-thread1.67.0, libc6 (>= 2.28), libgcc1 (>= 1:3.5), libglib2.0-0 (>= 2.12.0), libgstreamer-plugins-base1.0-0 (>= 1.6.0), libgstreamer1.0-0 (>= 1.0.0), libprotobuf17, libqt5bluetooth5 (>= 5.6.0), libqt5core5a (>= 5.9.0~beta), libqt5gui5 (>= 5.0.2), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5widgets5 (>= 5.0.2), librtaudio6, libstdc++6 (>= 6), libusb-1.0-0 (>= 2:1.0.9)
 Priority: optional
 Section: devel
-Filename: pool/main/o/openauto/openauto_2.1.4a74532_armhf.deb
-Size: 22239372
-SHA256: 33376ca61ed6385d7d6bebeaad7fca44662a5577d626c44af1f6d290197033a2
-SHA1: 32dabf364b004cf9516c2acbe1e015212fccdddd
-MD5sum: 57251ae470cb2ecef7d23ae408277641
+Filename: pool/main/o/openautoopendsh/openautoopendsh_2.1.4a74532_armhf.deb
+Size: 22239982
+SHA256: d321d4afc7176e5a15b86932a92614cca5a81bfd7f205742364883a709228b49
+SHA1: a522ca133bd84f762a4a37887946455d4d04b9ab
+MD5sum: 0c6f337b8089ecaff05de8ba1f865421
 Description: openauto built using CMake
 Maintainer: OpenDsh
 Version: 2.1.4a74532
-Installed-Size: 165140
+Installed-Size: 165142
 
 Package: qtgstreamer
 Architecture: armhf
