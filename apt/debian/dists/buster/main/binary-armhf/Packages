@@ -34,10 +34,10 @@ Depends: openautoopendsh (>=2.1.1629500851), libboost-atomic1.67.0, libboost-chr
 Priority: optional
 Section: devel
 Filename: pool/main/o/opendsh/opendsh_0.1.1631235763_armhf.deb
-Size: 14315572
-SHA256: 81076252253a112f832902201b3f862487dd87ef022cda49f55305e615d20c12
-SHA1: 8726b589447748e14f5bdff971128b8795cbccd5
-MD5sum: fa7ec154a60e9027dc57ab3fc61251ac
+Size: 14315556
+SHA256: 2adfa16387761291bc7bc4504111d1bca23d67a589e5c9212af0acc15775b3bf
+SHA1: 67c6112fc099dab9914e57b871c4b9c952b046b7
+MD5sum: c2de6320bee5f18ee441efb8cfb5442b
 Description: dash built using CMake
 Maintainer: OpenDsh
 Version: 0.1.1631235763
