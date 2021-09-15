@@ -33,14 +33,14 @@ Architecture: armhf
 Depends: openautoopendsh (>=2.1.1629500851), libboost-atomic1.67.0, libboost-chrono1.67.0, libboost-date-time1.67.0, libboost-filesystem1.67.0, libboost-log1.67.0, libboost-regex1.67.0 (>= 1.67.0-10), libboost-system1.67.0, libboost-test1.67.0, libboost-thread1.67.0, libc6 (>= 2.28), libgcc1 (>= 1:3.5), libglib2.0-0 (>= 2.12.0), libgstreamer-plugins-base1.0-0 (>= 1.6.0), libgstreamer1.0-0 (>= 1.0.0), libkf5bluezqt6 (>= 5.13.0), libprotobuf17, libqt5bluetooth5 (>= 5.6.0), libqt5core5a (>= 5.10.0), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.2.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5serialbus5 (>= 5.10.1), libqt5serialport5 (>= 5.6.0), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.2.0), librtaudio6, libstdc++6 (>= 6), libtag1v5 (>= 1.9.1-2.2~), libusb-1.0-0 (>= 2:1.0.9)
 Priority: optional
 Section: devel
-Filename: pool/main/o/opendsh/opendsh_0.1.1631235763_armhf.deb
-Size: 14315556
-SHA256: 2adfa16387761291bc7bc4504111d1bca23d67a589e5c9212af0acc15775b3bf
-SHA1: 67c6112fc099dab9914e57b871c4b9c952b046b7
-MD5sum: c2de6320bee5f18ee441efb8cfb5442b
+Filename: pool/main/o/opendsh/opendsh_0.1.1631235763-1_armhf.deb
+Size: 14315562
+SHA256: c2f62bfd7d929a675626044e11fe6c60b2c6793f3312e3c97f77b4b05e8f46a2
+SHA1: df7f9b8ab4e75fbaeb7844cf875eeb525ba9c0f6
+MD5sum: 41bce32253794355e2f2b0b2b333e160
 Description: dash built using CMake
 Maintainer: OpenDsh
-Version: 0.1.1631235763
+Version: 0.1.1631235763-1
 Installed-Size: 34024
 
 Package: qtgstreamer
